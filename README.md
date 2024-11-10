@@ -3,9 +3,6 @@ BookCrafters is a dynamic and user-friendly online library project built on the 
 
 📚 Explore Collections: Discover an extensive array of authors and books meticulously organized within BookCrafters. Immerse yourself in diverse genres, authors, and literary treasures, all at your fingertips.
 
-![image](https://github.com/user-attachments/assets/10f71005-98cd-4d4d-b6de-414c825e24f3)
-
-
 🖋️ Add Authors and Books: Become a curator of your own library by effortlessly adding new authors and books to the collection. Our intuitive interface makes it a breeze to expand your library with rich information.
 
 🔍 Effortless Searching: Find your favorite authors and books in an instant using our robust search feature. Never again miss out on your next captivating read.
@@ -22,4 +19,24 @@ Ready to embark on your journey through the world of literature? Join the BookCr
 
 Get started now and let your love for books shine with BookCrafters!
 
-Visit BookCrafters to get started. 📖✨
+Visit bookcrafters.onrender.com to get started. 📖✨
+
+Home Page:
+![image](https://github.com/user-attachments/assets/89477fcd-d756-4f2c-96ae-3ebc706c1f96)
+
+Authors Page:
+![image](https://github.com/user-attachments/assets/58cea99b-061e-4166-917e-54853a073d5e)
+
+Add Authors Page:
+![image](https://github.com/user-attachments/assets/f777432b-f8d3-4aee-8e9b-fc42ca6d5386)
+
+Books Page:
+![image](https://github.com/user-attachments/assets/a2689217-6789-497a-ab79-01c107e9cdd2)
+
+Add Books Page:
+![image](https://github.com/user-attachments/assets/b18c07e2-57cd-4e0c-adb3-d4f632cfc170)
+
+
+
+
+
