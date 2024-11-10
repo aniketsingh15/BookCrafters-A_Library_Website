@@ -3,6 +3,9 @@ BookCrafters is a dynamic and user-friendly online library project built on the 
 
 📚 Explore Collections: Discover an extensive array of authors and books meticulously organized within BookCrafters. Immerse yourself in diverse genres, authors, and literary treasures, all at your fingertips.
 
+![image](https://github.com/user-attachments/assets/10f71005-98cd-4d4d-b6de-414c825e24f3)
+
+
 🖋️ Add Authors and Books: Become a curator of your own library by effortlessly adding new authors and books to the collection. Our intuitive interface makes it a breeze to expand your library with rich information.
 
 🔍 Effortless Searching: Find your favorite authors and books in an instant using our robust search feature. Never again miss out on your next captivating read.
